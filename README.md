@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rushikesh Nalgire</h1>
 <h3 align="center">A passionate Programmer from Maharashtra, India</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p><br><br>
+<p align="center" style="margin-left: 20; margin-right: 20;">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p><br><br>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=nalgirerushikesh&label=Profile%20views&color=blueviolet&style=flat-square" alt="nalgirerushikesh" />
 <!-- <img alt="Profile followers" src="https://img.shields.io/github/followers/nalgirerushikesh"> -->
